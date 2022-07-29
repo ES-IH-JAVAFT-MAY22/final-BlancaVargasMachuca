@@ -1,0 +1,24 @@
+
+<div class="simple-login-container">
+    <h1><b>Barey Collection</b></h1>
+    <h2>Log In</h2>
+    <form method="post">
+        <div class="row">
+            <div class="col-md-12 form-group">
+                <input [(ngModel)]="username" type="text" class="form-control" name = "username" placeholder="User">
+            
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 form-group">
+                <input [(ngModel)]="password" type="password" placeholder="Contraseña" name = "password" class="form-control">
+            
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 form-group">
+                <input (click)='login()' type="submit" class="btn btn-block btn-login" placeholder="Enter your Password" >
+            </div>
+        </div>
+    </form>
+</div>

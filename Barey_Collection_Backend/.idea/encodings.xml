@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/edge-service/edge-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/edge-service/edge-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-barey-service/eureka-barey-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-barey-service/eureka-barey-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy-client-service/proxy-client-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy-order-service/proxy-order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy-order-service/proxy-order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy-product-service/proxy-product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proxy-product-service/proxy-product-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
